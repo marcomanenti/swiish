@@ -253,8 +253,8 @@ module.exports = {
   // Paths are relative to public folder
   textures: {
     main: {
-      light: '/textures/sandTexture.jpg',  // Main background texture (light theme)
-      dark: '/textures/sandTexture.jpg',   // Main background texture (dark theme)
+      light: '/textures/CS_background.jpg',  // Main background texture (light theme)
+      dark: '/textures/CS_background.jpg',   // Main background texture (dark theme)
       size: '1080px 1080px',                 // Texture tile size
       blendLight: 'multiply',              // Blend mode for light theme
       blendDark: 'overlay',                // Blend mode for dark theme
